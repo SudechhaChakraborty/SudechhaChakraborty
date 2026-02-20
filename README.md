@@ -52,6 +52,9 @@ const sudechha = {
 
 ## 🐍 Contribution Graph
 
+<h3 align="center">Contribution Activity</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=4"/>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SudechhaChakraborty/SudechhaChakraborty/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SudechhaChakraborty/.github/output/github-contribution-grid-snake.svg" />
 </p>
