@@ -36,26 +36,12 @@ const sudechha = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
 </p>
 
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SudechhaChakraborty&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudechhaChakraborty&theme=github-dark" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sudechha-chakraborty-51782129b/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SudechhaChakraborty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudechhaChakraborty&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -69,6 +55,18 @@ const sudechha = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SudechhaChakraborty/.github/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sudechha-chakraborty-51782129b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+</a>
 </p>
 
 <p align="center">
