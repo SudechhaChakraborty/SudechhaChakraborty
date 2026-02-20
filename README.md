@@ -39,7 +39,12 @@ const sudechha = {
 
 ## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SudechhaChakraborty&show_icons=true&theme=github_dark" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudechhaChakraborty&theme=github-dark" /> </p>
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SudechhaChakraborty&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SudechhaChakraborty&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
