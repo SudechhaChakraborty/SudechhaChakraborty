@@ -32,7 +32,9 @@ const sudechha = {
   <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,git,github,mysql,python,maven,docker,jenkins" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
+</p>
 
 ## 📊 GitHub Stats
 
@@ -44,7 +46,9 @@ const sudechha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudechhaChakraborty&theme=github-dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
+</p>
 
 ## 🌐 Connect With Me
 
@@ -54,7 +58,9 @@ const sudechha = {
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
+</p>
 
 ## 🐍 Contribution Graph
 
@@ -63,4 +69,8 @@ const sudechha = {
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SudechhaChakraborty/.github/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
 </p>
