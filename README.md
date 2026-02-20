@@ -4,7 +4,9 @@
 <h1 align="center">Hi 👋, I'm Sudechha Chakraborty</h1>
 <h3 align="center">B.Tech CSE | Backend Developer |   Problem Solver</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3F8EFC,100:8A2BE2&height=2&width=250"/>
+</p>
 
 ## 💻 About Me
 
