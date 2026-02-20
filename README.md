@@ -49,3 +49,9 @@ const sudechha = {
   <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SudechhaChakraborty/SudechhaChakraborty/output/github-contribution-grid-snake.svg" />
+</p>
