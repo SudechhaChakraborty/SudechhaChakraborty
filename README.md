@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sudechha Chakraborty</h1>
 <h3 align="center">B.Tech CSE | Backend Developer |   Problem Solver</h3>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
 
 ## 💻 About Me
 
@@ -20,7 +20,7 @@ const sudechha = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +28,7 @@ const sudechha = {
   <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,git,github,mysql,python,maven,docker,jenkins" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
 
 ## 📊 GitHub Stats
 
@@ -40,7 +40,7 @@ const sudechha = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudechhaChakraborty&theme=github-dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
 
 ## 🌐 Connect With Me
 
@@ -49,6 +49,8 @@ const sudechha = {
   <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8EFC,100:8A2BE2&height=100&section=divider"/>
 
 ## 🐍 Contribution Graph
 
