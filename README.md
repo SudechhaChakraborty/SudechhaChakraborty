@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sudechha Chakraborty</h1>
+<h3 align="center">B.Tech CSE | Backend Developer |   Problem Solver</h3>
 
-<!--
-**SudechhaChakraborty/SudechhaChakraborty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```java
+const sudechha = {
+    education: "B.Tech CSE @ SRM Institute of Science and Technology",
+    role: ["Backend Developer", "Frontend Developer", "Database Management", "Cloud Computing"],
+    techFocus: ["C++", "Java", "Python", "Mysql", "Spring Boot", "REST APIs"],
+    interests: ["System Design", "Scalable Architectures", "Problem Solving"],
+    currentGoal: "Building reliable and scalable backend systems",
+    versionControl: ["Git", "GitHub"],
+    others: ["Figma", "Canva", "VS Code", "PowerShell", "Windows", "AWS"]
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,react,git,github,mysql,python,maven,docker,jenkins" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SudechhaChakraborty&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SudechhaChakraborty&theme=github-dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sudechha-chakraborty-51782129b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
